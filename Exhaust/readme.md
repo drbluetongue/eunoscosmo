@@ -18,6 +18,8 @@ One is the air pipe going from the intake manifold into the catalyst which the A
 
 ![image](https://github.com/drbluetongue/eunoscosmo/assets/12694883/933a338a-59bb-4a26-a3af-4210c5e983e0)
 
+You can either plumb the air pipe into the test pipe, or vent it directly next to the exhaust.
+
 The next thing that will need to be addressed is the catalyst temperature sensor. If this is cut off or removed, you will recieve a warning light on your dashboard and the ECU will run mega rich as it thinks the catalyst is overheating and is trying to cool it down. 
 
 You can cat the temperature sensor off and wire in a 26ohm resistor which is enough to trick the the ECU that everything is a-okay. Keep an eye on boost without a catalyst to make sure you aren't creeping.
