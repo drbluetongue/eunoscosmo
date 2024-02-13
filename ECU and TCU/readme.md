@@ -1,8 +1,7 @@
-ECU/TCU
+**ECU/TCU**
 
-I have added files for:
+I have added files in here for:
 
 ECU and TCU pinouts and functions
-Using the stock coils with an aftermarket ECU by replacing the ignitor
 
-I will do full write-ups on how to do each of the above, this is a WIP
+Using the stock coils with an aftermarket ECU by replacing the ignitor
