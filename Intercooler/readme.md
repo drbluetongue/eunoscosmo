@@ -21,10 +21,13 @@ You could connect it to the overradiator piping with some simple fabrication or 
 Its dimensions are the following to fit on the factory mounts without needing to cut any bumper or support:
 
 450x300x100mm core
+
 270mm between center top mounting bungs
+
 240mm between center of bottom mounting bungs
 
 Here's how it fit:
+
 ![image](https://github.com/drbluetongue/eunoscosmo/assets/12694883/34c598f5-c228-4226-816a-6dd470ecc74a)
 ![image](https://github.com/drbluetongue/eunoscosmo/assets/12694883/cb81e336-8e60-4c0b-995e-d34a80fbb604)
 ![image](https://github.com/drbluetongue/eunoscosmo/assets/12694883/d7ae050c-7fca-49f2-959f-5a1366d31bb2)
