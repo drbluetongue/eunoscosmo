@@ -2,7 +2,7 @@
 A resource for the 1990-1995 Mazda/Eunos Cosmo - technical documentation, how-tos, and information.
 
 
-All information here was found on various forums, groups, defunct websites, or has been discovered and written by myself. 
+All information here was found on various forums, groups, defunct websites, or has been discovered and written by myself or and other contributors. 
 
 Many thanks to the awesome members of the Cosmo Owners Group on Facebook.
 
