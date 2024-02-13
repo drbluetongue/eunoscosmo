@@ -22,7 +22,7 @@ Now, the removal of the turbos themselves isn't too difficult. Drain oil and coo
 
 The air pump and Air Control Valve (emissions valve located on the Intake manifold the air-pump feeds to) will need to be removed in order to pull the cold side off. When taking the ACV off, try to undo it at the connector between the firewall and the intake manifold leaving the connector on the valve itself still connected. Unscrewing the wiring at the ACV will cause a tiny little spring and piston inside the wiring connector to go shooting off into space and then your air pump won't work properly.
 
-This is the connector I'm talking about.
+This is the connector I'm talking about - leave it connected here.
 
 ![image](https://github.com/drbluetongue/eunoscosmo/assets/12694883/136ea1f4-b02d-463d-bc58-d1f447cd1ef9)
 
