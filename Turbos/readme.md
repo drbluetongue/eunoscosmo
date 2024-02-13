@@ -20,12 +20,25 @@ Here's some examples if you don't believe me:
 
 Now, the removal of the turbos themselves isn't too difficult. Drain oil and coolant from the car, and work your way from the intercooler piping backwards. If you are planning to put the turbos back on, try not to break the gaskets on the cold side nest of pipes. if you do, gasket paper will work.
 
-The air pump and Air Control Valve (emissions valve located on the Intake manifold the air-pump feeds to) will need to be removed in oder to pull the cold side off. When taking the ACV off, try to undo it at the connector between the firewall and the intake manifold leaving the connector on the valve itself still connected. Unscrewing the wiring at the ACV will cause a tiny little spring and piston inside the wiring connector to go shooting off into space and then your air pump won't work properly.
+The air pump and Air Control Valve (emissions valve located on the Intake manifold the air-pump feeds to) will need to be removed in order to pull the cold side off. When taking the ACV off, try to undo it at the connector between the firewall and the intake manifold leaving the connector on the valve itself still connected. Unscrewing the wiring at the ACV will cause a tiny little spring and piston inside the wiring connector to go shooting off into space and then your air pump won't work properly.
 
+This is the connector I'm talking about.
+
+![image](https://github.com/drbluetongue/eunoscosmo/assets/12694883/136ea1f4-b02d-463d-bc58-d1f447cd1ef9)
+
+Here's some photos of the disassembly:
+
+![image](https://github.com/drbluetongue/eunoscosmo/assets/12694883/9db30f32-b679-4dde-a631-318f66be6cc7)
 ![image](https://github.com/drbluetongue/eunoscosmo/assets/12694883/0d984206-5503-4f03-9c4b-2d814ba14afa)
-
 ![image](https://github.com/drbluetongue/eunoscosmo/assets/12694883/174be7e4-b32d-428e-b720-0321a1bd5876)
+![image](https://github.com/drbluetongue/eunoscosmo/assets/12694883/df6f82b4-d7ca-4efc-b856-914779018da1)
 
 
-You will be limited in space 
 
+
+Once you have unbolted the turbos from the exhaust manifold, it is possible to remove them by twisting the exhaust manifold and moving the water drain out of the way. It is a lot easier if you disconnect this from the lower radiator hose inlet on the water pump.
+
+
+Future additions:
+The heat shields are a nightmare lol
+hot side
