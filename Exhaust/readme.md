@@ -22,4 +22,4 @@ You can either plumb the air pipe into the test pipe, or vent it directly next t
 
 The next thing that will need to be addressed is the catalyst temperature sensor. If this is cut off or removed, you will recieve a warning light on your dashboard and the ECU will run mega rich as it thinks the catalyst is overheating and is trying to cool it down. 
 
-You can cat the temperature sensor off and wire in a 26ohm resistor which is enough to trick the the ECU that everything is a-okay. Keep an eye on boost without a catalyst to make sure you aren't creeping.
+You can cat the temperature sensor off and wire in a 56ohm resistor which is enough to trick the the ECU that everything is a-okay. Keep an eye on boost without a catalyst to make sure you aren't creeping.
