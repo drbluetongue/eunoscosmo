@@ -17,16 +17,27 @@ If there are multiple codes, it will do the smallest number first.
 The list of codes are below. They are either if the circuit is open (unplugged) or shorted, there isn't any further logic or diagnostics in this simple system.
 
 0: Normal
+
 1: Engine RPM signal (Ignitor)
+
 6: Speed Sensor 1
+
 7: Speed Sensor 
+
 12: Throttle Sensor
+
 56: Transmission Temp sensor
+
 57: Torque down/torque down request signal (goes to ECU)
+
 60: Shift Solenoid A
+
 61: Shift Solenoid B
+
 62: Overrun Clutch
+
 63: Lock Up Solenoid
+
 64: Line Pressure Solenoid
 
 
