@@ -9,8 +9,12 @@ Turn the ignition on, and you will see the Hold light on the dash flash. If this
 Long flash is the first number, then short flashes are the second number. 
 
 For example, code 6 for Speed sensor will flash 6 quick flashes, then a 4 second period before it repeats like this: _-_-_-_-_-_-______ 
+![image](https://github.com/drbluetongue/eunoscosmo/assets/12694883/11e3ce99-6fee-4647-b530-53b47bfac783)
 
-A code 12 for Throttle Sensor will flash 1 long flash, and 2 short flashes, then a 4 second period before it repeats like this: _---_-_-_____
+A code 12 for Throttle Sensor will flash 1 long flash, and 2 short flashes, then a 4 second period before it repeats like this: 
+![image](https://github.com/drbluetongue/eunoscosmo/assets/12694883/870c051a-b0c0-4ce8-b6d3-332acd623016)
+
+
 
 If there are multiple codes, it will do the smallest number first.
 
