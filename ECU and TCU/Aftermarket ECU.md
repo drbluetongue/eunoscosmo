@@ -14,9 +14,9 @@ TPS wide range
 
 TPS narrow range
 
-Turbo and Emissions solenoids, 20b airpump relay (if you are running stock turbos)
+Turbo and Emissions solenoids, 20b airpump relay (if you are running stock turbos or emissions otherwise not needed)
 
-Brake switch
+Brake switchs
 
 12v
 
