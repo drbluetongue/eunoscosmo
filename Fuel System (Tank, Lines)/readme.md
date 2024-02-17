@@ -10,3 +10,7 @@ A **Walbro GSS342** will drop in on a factory car in the cradle. Will work fine 
 
 A **Walbro 400** will also fit with some small modifications, but will require its own relay and decent hard wiring to the battery due to the current draw it will try and pull through your stock 30+ year old wiring. The stock fuel return at this level is pump is very overwhelmed even with a decent fuel pressure regulator. On my Cosmo my 400 records almost 60psi at idle with factory return, dropping to its 3 bar/43psi regulated pressure once load increases.
 
+**Fuel pump relay system:**
+![FuelPumpOperation](https://github.com/drbluetongue/eunoscosmo/assets/12694883/25bb7263-5a90-4da2-89e7-026a00929463)
+
+
