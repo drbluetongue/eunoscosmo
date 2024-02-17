@@ -6,7 +6,9 @@ You will need to run both the stock ECU, and the stock TCU. Currently I am worki
 
 **For 13B cars, unless your new ECU supports S5 RX7 confirmation mode ignitors (like Adaptronic) you will need to convert your ignitor to be direct trailing fire - see the Using FD ignitor pinout file in this directory**
 
-The stock ECU requires the following to be remain pinned at a bare minimum (or shared with stock ECU and aftermarket ECU) to keep it from throwing limp mode. If in doubt, leave everything still going to stock ECU except stuff you want to run on your other ECU e.g. injector, ignition, CAS, coolant & IAT etc. The stock ECU will happily work without these connected - for example if it has no coolant temp connected it defaults to 80c.
+The stock ECU requires the following to be remain pinned at a bare minimum (or shared with stock ECU and aftermarket ECU) to keep it from throwing limp mode. If in doubt, leave everything still going to stock ECU except stuff you want to run on your other ECU e.g. injector, ignition, coolant & IAT etc. The stock ECU will happily work without these connected - for example if it has no coolant temp connected it defaults to 80c.
+
+CAS - share with aftermarket computer. Apparently it will work fine without this going to the stock ECU (say if you've done a crank trigger upgrade) if you have done the below RPM output but I haven't tried this.
 
 Torque down 
 
