@@ -1,4 +1,4 @@
-Information about the differences between the JC Cosmo Jatco 4 speed (R4A-EL) and Nissan RE4R01A can be found at this link:
+Information about the Jatco 4 speed in general, and the differences between the JC Cosmo Jatco 4 speed (R4A-EL) and Nissan RE4R01A can be found at this link:
 
 https://atracom.blob.core.windows.net/manuals/individual/2001/2001_web_imports.pdf
 
