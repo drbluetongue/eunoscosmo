@@ -35,4 +35,10 @@ Replace both thermostats with 82c Tridon (or other brand) FD thermostats. This i
 
 ![421326797_3682285072095962_4358938803602622259_n](https://github.com/drbluetongue/eunoscosmo/assets/12694883/c0580d94-825e-4502-a94b-476e510bab01)
 
+If you are looking to "upgrade" to thermofans, you will gain a lot of room in the engine bay. If you can run the clutch fan do so, they are really really great. but anyway:
+
+![image](https://github.com/drbluetongue/eunoscosmo/assets/12694883/e0fd9a8e-a844-4b8d-aacd-bb449e6384a8)
+
+
+I purchased these fans second hand that came on another radiator and they do the job great. Hard wired a new relay to the small fans wiring, and they will maintain temperatures around 82c-85c if on all the time. When removing the clutch fan, make sure you use something to space the nuts back onto the pulley with or the pulley will wobble. I used slighly bigger nuts which did the job.
 
