@@ -1,4 +1,4 @@
-![image](https://github.com/drbluetongue/eunoscosmo/assets/12694883/ed3a6c00-03a6-4601-874e-980797dcf0d9)**Exhaust modification**
+**Exhaust modification**
 
 If you are using stock turbos, running a free flowing exhaust (say a 3" or bigger with no catalyst) will cause you to get some serious boost creep eventuating in a nasty boost cut (in my case I had a 3" almost straight through and I would hit boost cut at 150kmh when driving in Mexico ;) ). The wastegate on the stock turbos is very very small, and easily overcome. The flap does not have much room to move, no doubt it could be ported but that requires the removal of the turbos.
 ![image](https://github.com/drbluetongue/eunoscosmo/assets/12694883/574cfae1-1895-4b1e-86e1-ccf57d15e1aa)
