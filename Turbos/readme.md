@@ -2,7 +2,7 @@
 
 To clear a myth that is often repeated on forums, the 13B Turbos are not different sizes. Both are HT10 and the same size. I cannot comment on 20B turbos as I haven't removed a set. The turbo control and everything around it are almost the same.
 
-It's possible to remove the turbos while the engine is in the car as the bay is actually pretty big. My first set I removed took most of a day which a lot of involved using penerant (I recommend CRC Pener8 it makes it 100x easier to remove the rusted overheated bolts), now I can probably get a set off in a couple of hours, and back on in the same time.
+It's possible to remove the turbos while the engine is in the car as the bay is actually pretty big. My first set I removed took most of a day which a lot of involved using penetrant (I recommend CRC Penetr8 it makes it 100x easier to remove the rusted overheated bolts), now I can probably get a set off in a couple of hours, and back on in the same time.
 
 Here is a set of stock 13B turbos:
 
