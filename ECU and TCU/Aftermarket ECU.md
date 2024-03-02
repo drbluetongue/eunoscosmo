@@ -26,6 +26,11 @@ Brake switchs
 
 Grounds
 
-For A/C, you can wire pin 1O (Gry/Blue) into your aftermarket ECU to act as a A/C on switch. Then, use a spare ignition output on your aftermarket ECU to send a 5v signal on Pin 1L (Gry/Red) based on load - 5v for compressor on, 0v for WOT or high load/RPM.
+For A/C, you can wire pin 1O (Gry/Blue) into your aftermarket ECU to act as a A/C on switch. Then, use a spare ignition output (or 0-5v output) on your aftermarket ECU to send a 5v signal on Pin 1L (Gry/Red) based on load - 5v for compressor on, 0v for WOT or high load/RPM.
 
 For RPM signal, cut the grey wire on the ignitor end and splice into this wire on the TCU (Pin 1G) from your aftermarket ECU's tacho output. It will provide the dashboard tacho and the gearbox with RPM, and works great with aftermarket coil upgrades.
+
+For speed sensor, tap into this orange/blue wire on the TCU loom:
+
+![image](https://github.com/drbluetongue/eunoscosmo/assets/12694883/d0303252-a21d-4db4-8307-bae3bdf5453c)
+
