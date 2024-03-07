@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="zC7SeFhb0w0TjbLbpSfl4oaBzFGG6RQtjsl277mdv8o" />
+
 # Eunos Cosmo
 A resource for the 1990-1995 Mazda/Eunos Cosmo - technical documentation, how-tos, and information.
 
