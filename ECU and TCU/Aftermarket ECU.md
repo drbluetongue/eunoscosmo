@@ -22,6 +22,8 @@ Turbo and Emissions solenoids, 20b airpump relay (if you are running stock turbo
 
 Brake switchs
 
+Idle down signal
+
 12v
 
 Grounds
