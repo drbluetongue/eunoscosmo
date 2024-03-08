@@ -26,6 +26,9 @@ Ok hope this is easy to follow:
 
 9: you now have access to the cluster and is straight forward from there
 
+![image](https://github.com/drbluetongue/eunoscosmo/assets/12694883/a2040dd9-d25f-4890-8871-1949f849739e)
+
+
 ![image](https://github.com/drbluetongue/eunoscosmo/assets/12694883/9e09332c-ac2c-4d22-9066-b8d7735c2788)
 
 ![image](https://github.com/drbluetongue/eunoscosmo/assets/12694883/e197b488-a866-449a-b72d-29b509f1579e)
