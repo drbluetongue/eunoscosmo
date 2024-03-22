@@ -13,4 +13,7 @@ A **Walbro 400** will also fit with some small modifications, but will require i
 **Fuel pump relay system:**
 ![FuelPumpOperation](https://github.com/drbluetongue/eunoscosmo/assets/12694883/25bb7263-5a90-4da2-89e7-026a00929463)
 
+**fuel sender**
+
+Resistance values of the stock fuel level sender in the workshop manual (section T page 69) are 6ohm full, 95ohm empty
 
