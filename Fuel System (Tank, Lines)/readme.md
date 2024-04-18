@@ -11,7 +11,7 @@ Here's my original fuel pump in the hanger:
 ![image](https://github.com/drbluetongue/eunoscosmo/assets/12694883/672d7ce4-73ef-4da4-8884-28ac7b3bb785)
 
 
-A **Walbro GSS342** will drop in on a factory car in the cradle. Will work fine on stock ECU, fuel pressure regulator and wiring provided you run the stock resistor pack or else you will get pressure spikes on the factory fuel pressure regulator at idle and very light cruise.
+A **Walbro GSS342** will drop in on a factory car in the cradle, if you cut off the metal fuel feed and flare it and use genuine submersible fuel hose - I use Nissan hose as you can get it from a dealer easily. "E85" hose will disintegrate after 2 years ask me how I know. Will work fine on stock ECU, fuel pressure regulator and wiring provided you run the stock resistor pack or else you will get pressure spikes on the factory fuel pressure regulator at idle and very light cruise.
 
 ![image](https://github.com/drbluetongue/eunoscosmo/assets/12694883/83f6487e-563e-462a-b12b-2ec4ee8ed64e)
 
