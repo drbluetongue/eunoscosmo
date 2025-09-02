@@ -1,4 +1,4 @@
-Short the TBS pin and GND pin in the engine bay diagnostic plug. Go back into car and turn ignition on, the ABS light will flash:
+Short the TBS pin and GND pin in the engine bay diagnostic plug. Go back into car and turn ignition on, the ABS light will flash.  Note that there can be multiple codes, and the long delay shown in the pattern is the break where that code will stop reporting.  For example code 21 will report out Long, Long, Short.  That's all, it won't repeat if there are other codes to report. Code 01 will be just a single short, not 4 shorts.  
 
 ![image](https://github.com/drbluetongue/eunoscosmo/assets/12694883/2db04820-ddec-4c81-bc49-c8a25ce91ad3)
 
