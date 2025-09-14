@@ -49,7 +49,7 @@ After 10 seconds a code will be produced - the codes are as below:
 
 56 Left/Right Air Distribution Actuator
 
-Other diagnosis:
+**Other diagnosis:**
 
 Hold down Recirc and fresh air switch while turning ignition from ACC to on.
 
