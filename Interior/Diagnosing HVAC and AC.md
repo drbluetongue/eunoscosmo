@@ -49,3 +49,19 @@ After 10 seconds a code will be produced - the codes are as below:
 
 56 Left/Right Air Distribution Actuator
 
+Other diagnosis:
+
+Hold down Recirc and fresh air switch while turning ignition from ACC to on.
+
+This will show codes :
+
+00 = no error
+
+29 or 30 = L/R distributuion switch failure
+
+32 or 33 = Head Area temperature switch
+
+Any code with 5x or 6x = audio control signalling/head unit issues
+
+
+
