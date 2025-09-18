@@ -7,3 +7,7 @@ In short, the Cosmo gearbox has an additional Lockup solenoid (which is on-off),
 That link also contains desired line pressures, which is useful for when building a custom transmission controller.
 
 Our gearboxes have a port on the side of the gearbox which is designed for a diagnostic pressure sensor for testing. We can use this to add a line pressure sensor!
+
+a fair few parts are available from amayama:
+
+https://www.amayama.com/en/catalogs/mazda/eunos-cosmo/1-coupe-right-jc-1990-546/chassis-and-transmission-7
